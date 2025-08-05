@@ -188,7 +188,7 @@ Distance (cm) = 27.86 / (ADC_Value - 0.42)
 
 - Developed as part of **Embedded Systems Training**
 - Based on **ARM7 LPC2129** architecture
-- Guided by trainers from **[Vector India]**
+- Guided by trainers from **Vector India**
 
 ## 🏁 Final Output
 
